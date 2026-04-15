@@ -10,7 +10,7 @@ Simple Node.js app running inside Docker.
 
 ### 1. Clone repo
 
-git clone https://github.com/YOUR_USERNAME/docker-node-demo.git
+git clone https://github.com/asarutheen/docker_node_demo.git
 
 cd docker-node-demo
 
